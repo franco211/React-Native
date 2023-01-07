@@ -1,4 +1,3 @@
-import { DiffieHellmanGroup } from 'crypto';
 import React from 'react'
 import {text, View} from 'react-native';
 
